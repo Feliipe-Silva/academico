@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/princ.css">
 </head>
 <body id="professor">
-    <p><a href="index.php"><strong>Voltar</strong></a></p>
+    <a href="index.php"><strong>Voltar</strong></a>
     <main>
         <h1>Controle Acadêmico</h1>
     

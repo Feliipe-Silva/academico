@@ -1,9 +1,16 @@
-/* trabalhando página inicial */
+@font-face {
+    font-family: RobotoRegular;
+    src: url(font/Roboto-Regular.ttf);
+}
+
+/* Trabalhando Página Inicial */
 
 
-#inicio body {
+ body #inicio {
     background-color:green; 
     font-family: Arial, Helvetica, sans-serif;
+    font-family: RobotoRegular;
+    
 }
 
 #inicio h1, h2 {
@@ -17,7 +24,7 @@
     font-size: 1.2em;
 }
 
-/* |||  ||||||||  ||||||||  |||| */
+/* ||||  ||||||||  ||||||||  |||| */
 
 
 
@@ -40,6 +47,7 @@ table {
 body {
     background-color: rgb(94, 111, 158); 
     font-family: Arial, Helvetica, sans-serif;
+    font-family: RobotoRegular;
 }
 
 tr, td{

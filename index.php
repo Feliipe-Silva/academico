@@ -22,7 +22,6 @@
                 <li><a href="frequencia.php">Frequencias</a></li>
             </ul>
     
-        <!--img src="imagens/canvaai.webp" alt="imagem" width="450px" height="auto"-->
     </main>
 </body>
 </html>
