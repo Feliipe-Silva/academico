@@ -10,8 +10,17 @@
 <body>
     <h1>Sistema Acadêmico</h1>
     <p>Menu principal</p>
+        <label for="">Digito 1</label>
+            <input type="number" name="n1" id="n1">
 
-    <button type="button" onclick="funcao1()">Click aqui</button>
+        <label for="">Digito 2</label>
+            <input type="number" name="n2" id="n2">
+            
+        <button type="button" onclick="fan()"></button><br>
+
+    <select name="" id="select" size="6">
+        Resultado ...
+    </select>
 
     
 </body>
